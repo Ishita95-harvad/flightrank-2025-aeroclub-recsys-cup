@@ -1,10 +1,24 @@
-# ✈️FlightRank 2025: Aeroclub RecSys Cup
-
+# [✈️FlightRank 2025: Aeroclub RecSys Cup](https://www.kaggle.com/competitions/aeroclub-recsys-2025)
 **Personalized Flight Recommendations for Business Travelers**
----
-![FlightRank Header](https://github.com/Ishita95-harvad/flightrank-2025-aeroclub-recsys-cup/blob/main/header.jpg)
 
 A data-driven journey into flight recommendation systems. Presented by Aeroclub for the RecSys Cup 2025, this visual blends aviation with algorithmic precision—featuring a stylized aircraft built from numerical data points, set against a sleek grid backdrop. Innovation takes flight.
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ishita95-harvad/flightrank-2025-aeroclub-recsys-cup/main/header.png" alt="FlightRank Header" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/competitions/aeroclub-recsys-2025">
+    <img src="https://img.shields.io/badge/Kaggle-RecSys_Cup_2025-blue?logo=kaggle" alt="Kaggle Badge">
+  </a>
+  <a href="https://github.com/Ishita95-harvad/flightrank-2025-aeroclub-recsys-cup/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-green" alt="License Badge">
+  </a>
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-GREEN" alt="Made with Love">
+  <img src="https://img.shields.io/badge/Model-LightGBM-yellowgreen" alt="Model Badge">
+</p>
+
 
 ***
 
@@ -91,3 +105,21 @@ Ranked list of flight options per `ranker_id` in the test set.
 - Stylized aircraft made of data points: visualize feature importance as aircraft components (e.g., wings = price, engine = timing)
 - Grid backdrop: represent search sessions as flight paths on a grid
 - “Innovation takes flight”: use animated ranking trajectories or heatmaps of user preferences
+
+
+## 🖼️ Project Card
+
+![FlightRank 2025 Card](./flight_rank_linkedin_card.png)
+------
+### ✍️ Ending Notes from Ishita
+
+FlightRank 2025 began as a simple question: *Can we make flight recommendations not just smarter, but fairer?* What followed was a deep dive into multimodal modeling, edge deployment, and the ethics of personalization.
+
+This project is more than a dataset or a dashboard—it's a statement. A statement that **privacy-first AI** can be performant, that **open science** can be beautiful, and that **legal-tech principles** can guide even travel algorithms.
+
+Whether you're a researcher, a developer, or just someone who’s tired of generic flight suggestions, I hope FlightRank sparks ideas. If it does, let’s talk. If it doesn’t, let’s improve it together.
+
+Thanks for flying with me. ✈️  
+— Ishita
+-------
+
