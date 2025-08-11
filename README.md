@@ -111,7 +111,21 @@ Ranked list of flight options per `ranker_id` in the test set.
 
 ![FlightRank 2025 Card](https://raw.githubusercontent.com/Ishita95-harvad/flightrank-2025-aeroclub-recsys-cup/main/Copilot_20250811_222945.png)
 
-------
+-------
+### ⚙️ Technology Used
+
+- 🧠 **Multimodal AI**: Tabular + NLP fusion for personalized flight recommendations  
+- 🖥️ **Edge Deployment**: NVIDIA Jetson + Google Gemma 3n (quantized LLM)  
+- 📦 **Python Libraries**: `scikit-learn`, `XGBoost`, `spaCy`, `Tesseract`, `Matplotlib`, `NumPy`  
+- 🗂️ **Data Engineering**: Pandas, CSV provenance tracking, reproducible preprocessing  
+- 🔐 **Privacy-First Design**: No cloud calls, local inference, GDPR-aligned architecture  
+- 📊 **Visualization**: Custom Matplotlib cards, badge overlays, carousel-ready assets  
+- 📝 **Documentation**: LaTeX reports, Markdown README, open-source licensing (GPL-3.0)  
+- 🧪 **Experiment Tracking**: Manual logs + reproducible notebooks (Jupyter)  
+- 🚀 **Platform**: Kaggle (RecSys Cup 2025), GitHub (open release)
+
+--------
+
 ### ✍️ Ending Notes from Ishita
 
 FlightRank 2025 began as a simple question: *Can we make flight recommendations not just smarter, but fairer?* What followed was a deep dive into multimodal modeling, edge deployment, and the ethics of personalization.
@@ -122,5 +136,6 @@ Whether you're a researcher, a developer, or just someone who’s tired of gener
 
 Thanks for flying with me. ✈️  
 — Ishita
--------
+
+----------------------
 
