@@ -3,6 +3,8 @@
 
 A data-driven journey into flight recommendation systems. Presented by Aeroclub for the RecSys Cup 2025, this visual blends aviation with algorithmic precision—featuring a stylized aircraft built from numerical data points, set against a sleek grid backdrop. Innovation takes flight
 
+![FlightRank Header](https://raw.githubusercontent.com/Ishita95-harvad/flightrank-2025-aeroclub-recsys-cup/main/header.png)
+
 ***
 
 **Dataset Description**
