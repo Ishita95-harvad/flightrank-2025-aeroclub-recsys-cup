@@ -106,10 +106,11 @@ Ranked list of flight options per `ranker_id` in the test set.
 - Grid backdrop: represent search sessions as flight paths on a grid
 - “Innovation takes flight”: use animated ranking trajectories or heatmaps of user preferences
 
-
+----
 ## 🖼️ Project Card
 
-![FlightRank 2025 Card](./flight_rank_linkedin_card.png)
+![FlightRank 2025 Card](https://raw.githubusercontent.com/Ishita95-harvad/flightrank-2025-aeroclub-recsys-cup/main/Copilot_20250811_222945.png)
+
 ------
 ### ✍️ Ending Notes from Ishita
 
